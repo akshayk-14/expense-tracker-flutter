@@ -18,6 +18,9 @@ The application provides a clean interface where users can add expenses, view th
 - 👤 Profile section
 - 📱 Mobile-friendly UI
 - 🎨 Modern and simple interface
+## 📸 App Screenshot
+
+![Expense Tracker Home Screen](screenshots/expense_tracker_home.png)
 
 ## 🛠️ Technologies Used
 
